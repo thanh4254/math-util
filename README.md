@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by giáo.làng](https://github.com/thanh4254/math-util/actions/workflows/ant.yml/badge.svg)](https://github.com/thanh4254/math-util/actions/workflows/ant.yml)
+
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
 * The Math-Util library that offers multiple math functions (a java-based source code)
